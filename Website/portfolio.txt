@@ -1,0 +1,52 @@
+* HOME
+home__social
+https://www.linkedin.com/
+https://github.com/
+
+home__description
+...
+
+
+* ABOUT
+about__description
+Hey! I'm Jess and I am a first year University of Waterloo student
+studying Computer Science. 
+I was born in Kingston, ON, and later moved to Brockville, ON. 
+I love being active, mostly aquatic sports as growing up on the
+St.Lawrence means you cannot miss out on the joys of 
+boating, swimming and tubing. That being said, I was apart of
+the Upper Canada River Otters Swim Club based in Brockville, where
+I consistently competed at the national standard. 
+Nonetheless, I treat my academics the same way I found success in swimming.
+I'm diligent and always trying to focus on the process. One of 
+the most important lessons I got from swimming was that 
+having a strong mindset is key. Hence, as a computer science 
+student with no prior experience, I refuse to let that define
+myself and my oppurtunities. I am eager to learn and dedicated
+to finding my spot in the world of computer science.
+
+
+about__info-name
+Years <br> experience
+Completed <br> project
+Companies <br> worked
+
+
+* EDUCATION
+services__modal-service
+I develop the user interface.
+Web page development.
+I create ux element interactions.
+I position your company brand.
+
+
+* PORTFOLIO
+portfolio__description
+Website adaptable to all devices, with ui components and animated interactions.
+
+
+* FOOTER
+footer__social
+https://www.facebook.com/
+https://www.instagram.com/
+https://twitter.com/
